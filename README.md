@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>FORM VALIDATION ACTIVITY 03 </title>
-</head>
-         
+   
 <body><h4 align="center"><b>TUTOR REQUEST FORM </b><center>
 <hr>
 <h5 align="Left"><b><br>Student's Name
